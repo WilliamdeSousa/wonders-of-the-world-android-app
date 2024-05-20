@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Wonders Of The World</string>
+
+    <string name="great_pyramid_of_giza_text">Great Pyramid of Giza</string>
+    <string name="great_pyramid_of_giza_year">2584–2561 BC</string>
+    <string name="great_pyramid_of_giza_location">Giza Necropolis, Egypt</string>
+    <string name="hanging_gardens_of_babylon_text">Hanging Gardens of Babylon</string>
+    <string name="hanging_gardens_of_babylon_year">c. 600 BC</string>
+    <string name="hanging_gardens_of_babylon_location">Hillah or Nineveh, Iraq</string>
+    <string name="statue_of_zeus_at_olympia_text">Statue of Zeus at Olympia</string>
+    <string name="statue_of_zeus_at_olympia_year">435 BC</string>
+    <string name="statue_of_zeus_at_olympia_location">Olympia, Greece</string>
+    <string name="temple_of_artemis_at_ephesus_text">Temple of Artemis at Ephesus</string>
+    <string name="temple_of_artemis_at_ephesus_year">c. 550 BC; and again in 323 BC</string>
+    <string name="temple_of_artemis_at_ephesus_location">Near Selçuk, Turkey</string>
+    <string name="mausoleum_at_halicarnassus_text">Mausoleum at Halicarnassus</string>
+    <string name="mausoleum_at_halicarnassus_year">351 BC</string>
+    <string name="mausoleum_at_halicarnassus_location">Bodrum, Turkey</string>
+    <string name="colossus_of_rhodes_text">Colossus of Rhodes</string>
+    <string name="colossus_of_rhodes_year">292–280 BC</string>
+    <string name="colossus_of_rhodes_location">Rhodes, Greece</string>
+    <string name="lighthouse_of_alexandria_text">Lighthouse of Alexandria</string>
+    <string name="lighthouse_of_alexandria_year">c. 280 BC</string>
+    <string name="lighthouse_of_alexandria_location">Alexandria, Egypt</string>
+    <string name="great_wall_of_china_text">Great Wall of China</string>
+    <string name="great_wall_of_china_year">700 BC</string>
+    <string name="great_wall_of_china_location">China</string>
+    <string name="petra_text">Petra</string>
+    <string name="petra_year">312 BC</string>
+    <string name="petra_location">Ma\'an, Jordan</string>
+    <string name="colosseum_text">Colosseum</string>
+    <string name="colosseum_year">AD 80</string>
+    <string name="colosseum_location">Rome, Italy</string>
+    <string name="chichen_itz_text">Chichén Itzá</string>
+    <string name="chichen_itz_year">AD 600</string>
+    <string name="chichen_itz_location">Yucatán, Mexico</string>
+    <string name="machu_picchu_text">Machu Picchu</string>
+    <string name="machu_picchu_year">AD 1450</string>
+    <string name="machu_picchu_location">Cuzco Region, Peru</string>
+    <string name="taj_mahal_text">Taj Mahal</string>
+    <string name="taj_mahal_year">AD 1643</string>
+    <string name="taj_mahal_location">Agra, India</string>
+    <string name="christ_the_redeemer_text">Christ the Redeemer</string>
+    <string name="christ_the_redeemer_year">AD 1931</string>
+    <string name="christ_the_redeemer_location">Rio de Janeiro, Brazil</string>
+
+    <string name="initial_menu_app_title">Wonders of \nthe World</string>
+    <string name="wonders_of_the_ancient_world_text">Wonders of the Ancient World</string>
+    <string name="new_wonders_of_the_world_text">New Wonders of the World</string>
+    <string name="random_wonder_button_text">Random Wonder</string>
+    <string name="about_the_app_text">About the app</string>
+    <string name="back_button_text">Back</string>
+    <string name="about_text">App by William de Sousa</string>
+    <string name="previous_button_text">Previous</string>
+    <string name="initial_menu_button_text">Initial Menu</string>
+    <string name="next_button_text">Next</string>
+</resources>
